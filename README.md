@@ -1,4 +1,4 @@
-AgriBot: An AI-Powered Farmer's Companion
+Agr0-plant: An AI-Powered Farmer's Companion
 A web application built with React and Flask, providing weather forecast, Crop disease and farming information using an APIs.
 
 Prerequisites
