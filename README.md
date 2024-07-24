@@ -11,5 +11,3 @@ TensorFlow
 Joblib
 Pillow
 
-
-this project was made ny adarsh singh
